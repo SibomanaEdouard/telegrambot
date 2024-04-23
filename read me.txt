@@ -1,0 +1,2 @@
+bot name: testtestbot
+bot username: @addresstestbot
